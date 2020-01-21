@@ -7,7 +7,10 @@ excerpt_separator: <!--more-->
 {{site.description}}
 
 
-https://app.keeweb.info/
-[Key][1]
+* [app.keeweb.info](https://app.keeweb.info/)
+* [Key.kbdk][1]
+* [telegram.org](https://web.telegram.org/)
+* Docs
+* Notes
 
 [1]: https://alex-esc.github.io/home/file/key.kbdx
