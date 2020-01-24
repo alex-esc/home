@@ -11,8 +11,7 @@ excerpt_separator: <!--more-->
 * [Key.kbdk][1]
 * [telegram.org](https://web.telegram.org/)
 * [Canvas](http://cursos.tecmilenio.mx/)
-* Docs
-* Notes
+* [Notes & docs](https://alex-esc.github.io/notes/)
 
 ---
 
