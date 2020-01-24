@@ -14,4 +14,8 @@ excerpt_separator: <!--more-->
 * Docs
 * Notes
 
+---
+
+[Add a link](https://github.com/alex-esc/home/blob/master/index.md), [login.](https://github.com/login)
+
 [1]: https://alex-esc.github.io/home/file/key.kbdx
