@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 * [app.keeweb.info](https://app.keeweb.info/)
 * [Key.kbdk][1]
 * [telegram.org](https://web.telegram.org/)
+* [web.whatsapp.com](https://web.whatsapp.com/)
 * [Canvas](http://cursos.tecmilenio.mx/)
 * [Notes & docs](https://alex-esc.github.io/notes/)
 
