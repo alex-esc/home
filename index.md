@@ -7,6 +7,7 @@ excerpt_separator: <!--more-->
 {{site.description}}
 
 * [markdown.pioul.fr](https://markdown.pioul.fr/)
+* [Markdown tables](https://www.tablesgenerator.com/markdown_tables)
 * [app.keeweb.info](https://app.keeweb.info/)
 * [Key.kbdk][1]
 * [telegram.org](https://web.telegram.org/)
