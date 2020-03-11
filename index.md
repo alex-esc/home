@@ -13,6 +13,7 @@ excerpt_separator: <!--more-->
 * [telegram.org](https://web.telegram.org/)
 * [web.whatsapp.com](https://web.whatsapp.com/)
 * [Canvas](http://cursos.tecmilenio.mx/)
+* [Outlook](http://correo.tecmilenio.mx/?_ga=2.71833043.1938062178.1583970550-941233929.1583970550)
 * [drive.google.com](https://www.google.com/drive/)
 * [Notes & docs](https://alex-esc.github.io/notes/)
 
